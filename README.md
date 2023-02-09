@@ -1,11 +1,14 @@
 # DrumKit
 Drum Kit website: https://omerkaaratas.github.io/DrumKit/
 
+![Drum_Kit](https://user-images.githubusercontent.com/118741717/217783801-4f121195-cdec-441d-aca3-b1a1587f575d.png)
+
 DrumKit is a website that lets you play virtual drums in your browser. With a simple and intuitive interface, users can create beats and rhythm by clicking on the different drum components. Whether you're a beginner or a seasoned musician, DrumKit is a fun and interactive way to play with rhythm and sound.
 
 Features
 A wide range of drum components, including crash, kick, snare, and more.
 Easy-to-use interface that lets you play along with your favorite music.
+
 
 How to use
 Using DrumKit is simple and straightforward. To get started, simply click the drum components you want to use or click the letter related to the component. 
